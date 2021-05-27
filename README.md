@@ -37,8 +37,8 @@ open /etc/automagic-fan/config.json with your favorite editor (I'm using nano):
 you will find the following lines:
 
     {
-    "FAN_OFF_TEMP":20,
-    "FAN_MAX_TEMP":50,
+    "FAN_OFF_TEMP":30,
+    "FAN_MAX_TEMP":70,
     "UPDATE_INTERVAL":2,
     "MAX_PERF":1
     }
